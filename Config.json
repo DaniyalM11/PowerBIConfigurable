@@ -1,0 +1,14 @@
+{
+    "Configurations": [
+      {
+        "ConfigurationID": "Config1",
+        "Server": "DESKTOP-6SA30LT\\SQLEXPRESS",
+        "Database": "Testing",
+        "Schema": "dbo",
+        "Table": "google_cleaned",
+        "Measure": ["Reviews","Size","Installs"],
+        "Attributes": ["Category", "Content_Rating","Genres"]
+      }
+    ]
+  }
+  

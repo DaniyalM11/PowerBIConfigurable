@@ -1,0 +1,14 @@
+{
+    "Configurations": [
+      {
+        "ConfigurationID": "Config2",
+        "Server": "DESKTOP-6SA30LT\\SQLEXPRESS",
+        "Database": "Testing",
+        "Schema": "dbo",
+        "Table": "StudentPerformanceFactors",
+        "Measure": ["Hours_Studied","Attendance","Exam_Score"],
+        "Attributes": ["Parental_Education_Level", "Distance_from_Home","Gender"]
+      }
+    ]
+  }
+  
